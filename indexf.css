@@ -1,9 +1,42 @@
+
 h1 {
 	color: purple;
-	font-family:tahoma;
-	font-size:20px;
+	font-family:copperplate gothic bold;
+	font-size:30px;
+	text-align: center;
+
 }
-p {
+h2 {
 	color:pink;
-	font-family:tahoma;
+	font-family:copperplate gothic bold;
+	text-align: center;
+	font-size:25px;
+
+}
+ul {
+	color: pink;
+	font-family:
+	font-size:18px;
+	text-align:left;
+}
+
+h1:hover {
+	font-size:50px;
+}
+img {
+	height: 250px;
+	width: 30%;
+	
+}
+div {
+	color: powderblue;
+	font-family: tahoma;
+	text-align: center;
+	font-size: 16px;
+}
+ {
+	font-family: tahoma
+	color: blue;
+	text-align: left;
+	font-size:14px;
 }
